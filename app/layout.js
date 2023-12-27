@@ -27,9 +27,6 @@ export default function RootLayout({ children }) {
  
   <Script src="assets/js/main.js" />
 
-      <Script>
-        alert ("hello guys")
-      </Script>
       </body>
     </html>
   )
